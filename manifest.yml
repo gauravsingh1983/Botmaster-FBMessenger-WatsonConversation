@@ -3,13 +3,13 @@ applications:
   memory: 256M
   instances: 1
   domain: eu-gb.mybluemix.net
-  name: your-app-name
+  name: sampleapp
   disk_quota: 512M
   env:
-    WATSON_CONVERSATION_USERNAME: 'your convo username'
-    WATSON_CONVERSATION_PASSWORD: 'your convo password'
-    WATSON_WORKSPACE_ID: 'your workspace id'
-    FACEBOOK_PAGE_TOKEN: 'your facebook page token'
+    WATSON_CONVERSATION_USERNAME: '575d547e-5503-4d41-b5a1-bc5b802d3793'
+    WATSON_CONVERSATION_PASSWORD: 'VMgb8pyQHDbX'
+    WATSON_WORKSPACE_ID: 'd3db6197-5e21-4ddf-b664-2f5df45cac83'
+    FACEBOOK_PAGE_TOKEN: 'EAAFx4ii35GsBAJ8MURZCt0iLshtGVV1ZA04KuKcr9WC3MY5U25bp0JoGjbO4RrUl6JwV5rHKEZC3DuTvwzThyExIWGh62nBZAgwrNOSmBktmN3QTspLA8GrdQr3Wa96ZBYOHUlkAz3PJBhpxJdoqtSCcp2D0dPuZBiN0OLqIF3GmMUt0eFco9sJQNV5RcHDZAEZD'
     FACEBOOK_VERIFY_TOKEN: 'your facebook verify token'
-    FACEBOOK_APP_SECRET: 'your facebook app secret'
+    FACEBOOK_APP_SECRET: 'c69fa5b21d4107ed2cf2f212d8faa8d7'
     DEBUG: botmaster:*
