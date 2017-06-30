@@ -3,7 +3,7 @@ applications:
   memory: 256M
   instances: 1
   domain: eu-gb.mybluemix.net
-  name: sampleapp
+  name: sampleappcnx
   disk_quota: 512M
   env:
     WATSON_CONVERSATION_USERNAME: '575d547e-5503-4d41-b5a1-bc5b802d3793'
